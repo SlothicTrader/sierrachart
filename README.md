@@ -1,1 +1,1 @@
-# sierrachart
+This scripts and general repository content is provided for entertainment purposes only and should not be used to make any financial decisions. The code/scripts/documentation found on this site should never be considered financial advice or professional tools for the use in making financial investment choices. Please use at your own risk.
